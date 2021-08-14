@@ -1,0 +1,22 @@
+.navbar__div1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+.navbar__img1 {
+  height: 2.5vw;
+}
+.navbar__div3 h1 {
+  font-size: 1.8vw;
+  font-weight: 500;
+}
+.navbar__div4 h1 {
+  font-size: 1.8vw;
+  font-weight: 500;
+}
+.navbar__link {
+    text-decoration: none;
+    color: #e5e5e5;
+}
